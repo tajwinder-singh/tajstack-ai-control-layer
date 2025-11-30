@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Email Demo</title>
+</head>
+<body>
+    <h1>AI Email Assistant Demo</h1>
+
+    <form action="/generate" method="POST">
+        <h3>Purpose</h3>
+        <input type="text" name="purpose">
+
+        <h3>Tone</h3>
+        <select name="tone">
+            <option>Formal</option>
+            <option>Friendly</option>
+            <option>Casual</option>
+        </select>
+
+        <h3>Key Points</h3>
+        <textarea name="key_points" rows="5"></textarea>
+
+        <button type="submit">Generate Email</button>
+    </form>
+</body>
+</html>
