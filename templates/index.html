@@ -1,26 +1,55 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>AI Email Demo</title>
+    <title>Tajstack AI – Control Layer Interaction Surface</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-    <h1>AI Email Assistant Demo</h1>
 
-    <form action="/generate" method="POST">
-        <h3>Purpose</h3>
-        <input type="text" name="purpose">
+<div class="top-bar">
+    <div class="brand">Tajstack AI</div>
+    <div class="status">Public Interaction Surface</div>
+</div>
 
-        <h3>Tone</h3>
-        <select name="tone">
-            <option>Formal</option>
-            <option>Friendly</option>
-            <option>Casual</option>
-        </select>
+<div class="dashboard-container">
 
-        <h3>Key Points</h3>
-        <textarea name="key_points" rows="5"></textarea>
+    <div class="card">
+        <h1>AI Control Layer</h1>
+        <p class="subtitle">
+            Structured request intake surface connected to a production AI control system.
+        </p>
 
-        <button type="submit">Generate Email</button>
-    </form>
+        <form action="/trigger" method="POST">
+
+            <label>Request Context</label>
+            <textarea name="request_context" placeholder="Describe the operational request..." required></textarea>
+
+            <label>Response Mode</label>
+            <select name="response_mode">
+                <option>Formal</option>
+                <option>Neutral</option>
+                <option>Concise</option>
+            </select>
+
+            <label>Operational Notes</label>
+            <textarea name="operational_notes" placeholder="Add relevant identifiers, policy notes, or references..."></textarea>
+
+            <button type="submit">Trigger Controlled Response</button>
+
+        </form>
+    </div>
+
+    <div class="card system-panel">
+        <h2>System Status</h2>
+        <ul>
+            <li>Control Engine: Private</li>
+            <li>Confidence Gating: Enforced (Production)</li>
+            <li>Escalation Logic: Managed</li>
+            <li>Tenant Isolation: Enabled</li>
+        </ul>
+    </div>
+
+</div>
+
 </body>
 </html>

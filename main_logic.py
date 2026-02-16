@@ -1,26 +1,29 @@
-# SAFE DEMO VERSION ONLY
-# (No RAG, No embeddings, No multi-tenant, No DB, No retrieval)
+# PUBLIC INTERACTION SURFACE
+# Production control logic is private and managed separately.
 
-def simple_generate_email(purpose, tone, key_points):
-    """
-    This is a VERY simplified version of the real engine.
-    """
+def generate_response(request_context, response_mode, operational_notes):
 
-    template = f"""
-Subject: Regarding {purpose}
+    output = f"""
+CONTROLLED RESPONSE OUTPUT
 
-Hi,
+Request Context:
+{request_context}
 
-I hope you are doing well.
+Operational Notes:
+{operational_notes}
 
-Here is a brief follow-up regarding: {purpose}
+Response Mode:
+{response_mode}
 
-Key Points:
-{key_points}
+---
 
-Tone Used: {tone}
+This response was generated through the public interaction surface.
 
-Best regards,
-AI Email Assistant Demo
+In production environments, this request would be evaluated
+against confidence thresholds, policy boundaries, and escalation rules
+before automation is permitted.
+
+Production control logic is private and managed separately.
 """
-    return template.strip()
+
+    return output.strip()
