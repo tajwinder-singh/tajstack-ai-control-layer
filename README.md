@@ -7,8 +7,7 @@
 
 ## Architecture Overview
 
-![file_0000000039487209a51e73a5145799ff-02](https://github.com/user-attachments/assets/3cc8128d-2fbc-43ae-9756-f4fc7fa0a429)
-
+![file_00000000f1d872089b3e7afb90074d47-04](https://github.com/user-attachments/assets/e8d8f90b-9b33-4098-905f-5b2986dcff06)
 
 The production system operates as a managed AI control layer governing when automation is allowed, refused, or escalated in high-risk operational workflows.
 
