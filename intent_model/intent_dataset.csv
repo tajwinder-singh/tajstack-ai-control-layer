@@ -1,0 +1,828 @@
+text,label
+i want a refund for my order,refund_request
+refund my payment,refund_request
+need refund asap,refund_request
+money back for order,refund_request
+cancel and refund,refund_request
+refund not received yet,refund_request
+please process refund,refund_request
+i need my money back,refund_request
+refund request for last purchase,refund_request
+wrong charge refund,refund_request
+refund pls,refund_request
+refund needed,refund_request
+return my money,refund_request
+refund immediately,refund_request
+order refund status,refund_request
+refund not processed,refund_request
+refund for damaged item,refund_request
+cancel order refund me,refund_request
+refund for duplicate payment,refund_request
+refund still pending,refund_request
+i want refund now,refund_request
+refund for wrong item,refund_request
+issue refund quickly,refund_request
+refund please,refund_request
+refund amount missing,refund_request
+refund request raised,refund_request
+refund status update,refund_request
+refund issue unresolved,refund_request
+refund my order asap,refund_request
+refund request pending,refund_request
+
+where is my order,order_status
+track my order,order_status
+order status update,order_status
+when will it arrive,order_status
+check delivery status,order_status
+order not delivered yet,order_status
+has it shipped,order_status
+order pending why,order_status
+track order id,order_status
+delivery status please,order_status
+order delayed,order_status
+where order,order_status
+order update,order_status
+track order pls,order_status
+shipment status,order_status
+delivery update,order_status
+order still processing,order_status
+order dispatched?,order_status
+order tracking info,order_status
+expected delivery date,order_status
+order status?,order_status
+track package,order_status
+delivery progress,order_status
+order arrival time,order_status
+status of my order,order_status
+order stuck,order_status
+shipment delay,order_status
+delivery not received,order_status
+order update pls,order_status
+track shipment,order_status
+
+app not working,technical_issue
+cannot login,technical_issue
+site is slow,technical_issue
+payment not loading,technical_issue
+checkout error,technical_issue
+app crashing,technical_issue
+login failed,technical_issue
+error occurred,technical_issue
+payment failed,technical_issue
+technical issue,technical_issue
+app broken,technical_issue
+site down,technical_issue
+system error,technical_issue
+unable to access account,technical_issue
+bug in app,technical_issue
+screen stuck,technical_issue
+not loading page,technical_issue
+server error,technical_issue
+failed transaction,technical_issue
+cannot complete order,technical_issue
+issue with login,technical_issue
+app glitch,technical_issue
+payment issue,technical_issue
+website error,technical_issue
+crash on startup,technical_issue
+account not opening,technical_issue
+slow performance,technical_issue
+technical problem,technical_issue
+error on screen,technical_issue
+unable to proceed,technical_issue
+
+bad service,complaint
+not happy,complaint
+very poor support,complaint
+this is unacceptable,complaint
+bad experience,complaint
+i am disappointed,complaint
+terrible service,complaint
+frustrating experience,complaint
+not satisfied,complaint
+worst service ever,complaint
+very bad,complaint
+complaint about service,complaint
+this is annoying,complaint
+support is useless,complaint
+poor quality,complaint
+very frustrating,complaint
+unhappy with service,complaint
+this is wrong,complaint
+not good service,complaint
+very disappointed,complaint
+bad customer support,complaint
+unsatisfied experience,complaint
+complaint regarding order,complaint
+service is poor,complaint
+not acceptable,complaint
+really bad service,complaint
+i am upset,complaint
+this is terrible,complaint
+worst experience,complaint
+not satisfied at all,complaint
+
+working hours,general_query
+contact support,general_query
+any discounts,general_query
+company location,general_query
+what services you offer,general_query
+how does it work,general_query
+need information,general_query
+tell me more,general_query
+what is policy,general_query
+help needed,general_query
+support contact,general_query
+pricing details,general_query
+service details,general_query
+how to use,general_query
+company info,general_query
+what is this,general_query
+more details please,general_query
+general info,general_query
+what do you do,general_query
+need help,general_query
+info about service,general_query
+explain process,general_query
+how system works,general_query
+what options available,general_query
+basic information,general_query
+tell me details,general_query
+how can i start,general_query
+info please,general_query
+explain service,general_query
+what can i do here,general_query
+
+refund for order 789 not received,refund_request
+still waiting for refund,refund_request
+why refund not processed yet,refund_request
+refund stuck for days,refund_request
+refund for cancelled order missing,refund_request
+charged twice refund both,refund_request
+refund not credited to account,refund_request
+cancel order need refund urgently,refund_request
+refund request ignored,refund_request
+refund for partial order,refund_request
+refund not showing in bank,refund_request
+refund delay unacceptable,refund_request
+refund initiated but not received,refund_request
+refund taking too long,refund_request
+need refund confirmation,refund_request
+refund request still open,refund_request
+refund after cancellation pending,refund_request
+refund not updated,refund_request
+refund missing,refund_request
+refund not reflected,refund_request
+refund overdue,refund_request
+refund processing too slow,refund_request
+refund still not done,refund_request
+refund incomplete,refund_request
+refund amount incorrect,refund_request
+refund issue,refund_request
+refund follow up,refund_request
+refund not cleared,refund_request
+refund unresolved,refund_request
+refund delayed again,refund_request
+
+order 123 not delivered yet,order_status
+delivery still pending why,order_status
+tracking not updating,order_status
+order stuck in transit,order_status
+shipment delayed again,order_status
+delivery date changed,order_status
+order taking too long,order_status
+order lost maybe,order_status
+delivery not happening,order_status
+order processing for long time,order_status
+order shipped but not delivered,order_status
+tracking shows nothing,order_status
+delivery info missing,order_status
+order still not here,order_status
+delivery delay reason,order_status
+order timeline please,order_status
+tracking broken,order_status
+shipment info unclear,order_status
+delivery slow,order_status
+order still waiting,order_status
+order overdue,order_status
+delivery late,order_status
+order expected today?,order_status
+shipment pending,order_status
+order not arrived yet,order_status
+delivery issue,order_status
+track order problem,order_status
+shipment stuck,order_status
+order lagging,order_status
+delivery delay again,order_status
+
+login page keeps failing,technical_issue
+app freezes on start,technical_issue
+payment stuck loading,technical_issue
+error 500 showing,technical_issue
+checkout button not working,technical_issue
+account locked out,technical_issue
+unable to reset password,technical_issue
+page keeps refreshing,technical_issue
+system glitch again,technical_issue
+transaction error repeatedly,technical_issue
+website not responding,technical_issue
+server timeout issue,technical_issue
+api not responding,technical_issue
+app stuck on loading screen,technical_issue
+cannot proceed after login,technical_issue
+payment gateway error,technical_issue
+unable to verify account,technical_issue
+unexpected error occurred,technical_issue
+bug while ordering,technical_issue
+app crashes after login,technical_issue
+system not working properly,technical_issue
+feature not working,technical_issue
+broken functionality,technical_issue
+technical bug again,technical_issue
+service error again,technical_issue
+app unstable,technical_issue
+login loop issue,technical_issue
+unable to access dashboard,technical_issue
+screen blank,technical_issue
+operation failed,technical_issue
+
+this is really bad service,complaint
+i expected better service,complaint
+extremely disappointed,complaint
+this is not acceptable at all,complaint
+very frustrating experience again,complaint
+i am unhappy with everything,complaint
+this keeps happening,complaint
+very poor handling,complaint
+i regret using this,complaint
+service quality declining,complaint
+very irritating service,complaint
+support not helpful at all,complaint
+this is ridiculous,complaint
+worst support experience,complaint
+not what i expected,complaint
+bad handling of issue,complaint
+very poor response,complaint
+i am really upset,complaint
+service is unacceptable,complaint
+very disappointing service,complaint
+this is frustrating again,complaint
+extremely bad support,complaint
+not handled properly,complaint
+poor experience overall,complaint
+this is getting worse,complaint
+bad experience again,complaint
+not reliable service,complaint
+i am fed up,complaint
+very unsatisfactory,complaint
+service not improving,complaint
+
+how to contact someone directly,general_query
+do you have phone support,general_query
+is there live chat available,general_query
+what are your support options,general_query
+how long does support take,general_query
+where can i get help,general_query
+what is your refund policy details,general_query
+do you offer premium plans,general_query
+what are pricing options,general_query
+how do i upgrade my plan,general_query
+can i talk to a human,general_query
+is support available 24/7,general_query
+what services included,general_query
+how does your system work exactly,general_query
+what features are available,general_query
+is there trial available,general_query
+how to get started,general_query
+what is included in service,general_query
+where to find documentation,general_query
+do you have support team,general_query
+how to reach customer service,general_query
+what is onboarding process,general_query
+how fast is response time,general_query
+what plans available,general_query
+can you explain features,general_query
+how do i use this service,general_query
+what are main benefits,general_query
+how to begin using,general_query
+what is the process,general_query
+where can i learn more,general_query
+
+
+refund still not here what is happening,refund_request
+i cancelled but refund not received yet,refund_request
+refund was promised but not processed,refund_request
+why is refund taking forever,refund_request
+refund amount not correct fix it,refund_request
+i need refund update now,refund_request
+refund missing from account,refund_request
+refund failed again,refund_request
+refund not showing anywhere,refund_request
+refund taking too many days,refund_request
+where is my refund status,refund_request
+refund not credited yet,refund_request
+refund stuck in system,refund_request
+refund still under processing?,refund_request
+refund not confirmed,refund_request
+refund pending too long,refund_request
+refund issue unresolved yet,refund_request
+refund for cancelled item not done,refund_request
+refund amount wrong,refund_request
+refund problem again,refund_request
+
+order says delivered but i did not get it,order_status
+tracking shows delivered but nothing received,order_status
+order marked delivered incorrectly,order_status
+order status wrong showing delivered,order_status
+tracking not matching reality,order_status
+order delivered but missing,order_status
+delivery says done but not here,order_status
+order shows shipped but stuck,order_status
+tracking inconsistent,order_status
+delivery info incorrect,order_status
+order status confusing,order_status
+shipment status unclear,order_status
+delivery marked but not received,order_status
+order info wrong,order_status
+tracking broken again,order_status
+order status incorrect,order_status
+delivery mismatch,order_status
+order status not reliable,order_status
+tracking not accurate,order_status
+delivery incorrect status,order_status
+
+login works sometimes fails sometimes,technical_issue
+app randomly crashes,technical_issue
+payment fails intermittently,technical_issue
+system behaving weirdly,technical_issue
+app lagging heavily,technical_issue
+loading takes forever,technical_issue
+page partially loads then stops,technical_issue
+error appears randomly,technical_issue
+system unstable behavior,technical_issue
+app inconsistent,technical_issue
+login unreliable,technical_issue
+payment inconsistent,technical_issue
+random failures happening,technical_issue
+app glitching,technical_issue
+system unreliable,technical_issue
+unexpected crash,technical_issue
+issue happens sometimes,technical_issue
+feature works sometimes fails sometimes,technical_issue
+random bug,technical_issue
+unstable app,technical_issue
+
+i am extremely frustrated with this,complaint
+this is getting ridiculous now,complaint
+i cannot tolerate this anymore,complaint
+very annoyed with your service,complaint
+this is completely unacceptable,complaint
+i am losing patience,complaint
+very poor handling again,complaint
+this is nonsense service,complaint
+i am really frustrated now,complaint
+this is going nowhere,complaint
+very bad support again,complaint
+this is unacceptable behavior,complaint
+i am tired of this issue,complaint
+this is horrible service,complaint
+i expected much better,complaint
+this is a waste of time,complaint
+not worth using this,complaint
+very disappointing again,complaint
+i regret choosing this service,complaint
+this is worst experience,complaint
+
+is there any way to get faster support,general_query
+how quickly do you respond,general_query
+what is average response time,general_query
+how long does it take to resolve issues,general_query
+can i get priority support,general_query
+is premium support available,general_query
+what are support timings exactly,general_query
+how can i escalate issue,general_query
+is there escalation process,general_query
+how to get faster resolution,general_query
+what channels for support,general_query
+do you provide dedicated support,general_query
+how to contact higher support,general_query
+what are service levels,general_query
+do you have sla,general_query
+how do you handle issues,general_query
+what is your response policy,general_query
+how support works,general_query
+how can i raise issue,general_query
+where to report problem,general_query
+
+
+refund still pending what is going on,refund_request
+refund not processed after many days,refund_request
+refund issue not resolved yet,refund_request
+refund request still open why,refund_request
+refund not initiated yet,refund_request
+refund failed to process,refund_request
+refund not showing in account balance,refund_request
+refund amount not received yet,refund_request
+refund for cancelled order still missing,refund_request
+refund delay again,refund_request
+refund not done properly,refund_request
+refund taking longer than expected,refund_request
+refund not completed yet,refund_request
+refund stuck again,refund_request
+refund still waiting,refund_request
+refund not approved yet,refund_request
+refund still not done,refund_request
+refund not working,refund_request
+refund problem not fixed,refund_request
+refund still processing why,refund_request
+refund issue still open,refund_request
+refund taking too much time,refund_request
+refund incomplete process,refund_request
+refund request ignored again,refund_request
+refund not successful,refund_request
+refund still under review,refund_request
+refund not updated yet,refund_request
+refund error occurred,refund_request
+refund not visible in history,refund_request
+refund request still pending,refund_request
+refund not processed properly,refund_request
+refund not credited properly,refund_request
+refund still not confirmed,refund_request
+refund request taking long,refund_request
+refund delayed unnecessarily,refund_request
+refund not working correctly,refund_request
+refund not received after cancellation,refund_request
+refund status not clear,refund_request
+refund missing from system,refund_request
+refund problem unresolved,refund_request
+
+order still not shipped why,order_status
+order processing taking too long,order_status
+order status not updated,order_status
+order not dispatched yet,order_status
+order delivery still pending,order_status
+order not moving in tracking,order_status
+order delayed again why,order_status
+order still in warehouse,order_status
+order shipment not started,order_status
+order status stuck,order_status
+order delivery delayed again,order_status
+order not out for delivery yet,order_status
+order tracking shows no progress,order_status
+order expected date passed,order_status
+order taking longer than expected,order_status
+order not arriving,order_status
+order shipment delayed,order_status
+order still not processed,order_status
+order not confirmed shipment,order_status
+order delivery not started,order_status
+order tracking issue,order_status
+order status incorrect again,order_status
+order not progressing,order_status
+order still waiting for shipment,order_status
+order stuck in processing,order_status
+order not moving forward,order_status
+order still not delivered why,order_status
+order delay again unacceptable,order_status
+order shipment problem,order_status
+order tracking problem again,order_status
+order still pending delivery,order_status
+order delivery not happening,order_status
+order not updated for long time,order_status
+order still not out for delivery,order_status
+order processing issue,order_status
+order still waiting dispatch,order_status
+order shipment not updated,order_status
+order delivery taking too long,order_status
+order not delivered yet why,order_status
+order status not clear,order_status
+
+app keeps crashing again and again,technical_issue
+app not responding properly,technical_issue
+app loading very slowly,technical_issue
+app showing errors frequently,technical_issue
+app freezing repeatedly,technical_issue
+app not usable at all,technical_issue
+app lagging too much,technical_issue
+app glitch happening,technical_issue
+app unstable performance,technical_issue
+app not functioning properly,technical_issue
+system keeps throwing errors,technical_issue
+system performance very poor,technical_issue
+system crashing frequently,technical_issue
+system not responding,technical_issue
+system very slow,technical_issue
+system showing bugs,technical_issue
+system unstable,technical_issue
+system not reliable,technical_issue
+system issue persists,technical_issue
+system error repeatedly,technical_issue
+payment not completing,technical_issue
+payment stuck again,technical_issue
+payment error again,technical_issue
+payment not going through,technical_issue
+payment failing repeatedly,technical_issue
+payment issue persists,technical_issue
+payment not processed,technical_issue
+payment system error,technical_issue
+payment not working properly,technical_issue
+payment glitch again,technical_issue
+login keeps failing,technical_issue
+login not working again,technical_issue
+login issue persists,technical_issue
+login not stable,technical_issue
+login problem continues,technical_issue
+login error again,technical_issue
+login not successful,technical_issue
+login broken,technical_issue
+login system error,technical_issue
+login not reliable,technical_issue
+
+this is extremely disappointing service,complaint
+this is very frustrating again,complaint
+this is not acceptable service,complaint
+this is worst experience ever,complaint
+this is very poor service quality,complaint
+this is highly disappointing,complaint
+this is terrible support again,complaint
+this is very bad handling,complaint
+this is unacceptable again,complaint
+this is very poor response,complaint
+this is frustrating experience again,complaint
+this is worst support again,complaint
+this is very annoying,complaint
+this is really bad again,complaint
+this is poor service again,complaint
+this is not good at all,complaint
+this is unacceptable behavior again,complaint
+this is bad experience again,complaint
+this is worst quality service,complaint
+this is extremely bad,complaint
+this is very disappointing again,complaint
+this is very frustrating service,complaint
+this is terrible quality,complaint
+this is poor handling again,complaint
+this is very bad service again,complaint
+this is annoying again,complaint
+this is very poor experience,complaint
+this is frustrating situation,complaint
+this is unacceptable quality,complaint
+this is very disappointing support,complaint
+this is very bad experience again,complaint
+this is unacceptable service again,complaint
+this is worst service quality,complaint
+this is poor support again,complaint
+this is frustrating support,complaint
+this is very poor handling again,complaint
+this is not acceptable again,complaint
+this is very bad support again,complaint
+this is terrible experience again,complaint
+this is very poor again,complaint
+
+how do i reach support team,general_query
+how to get help quickly,general_query
+how can i contact customer support,general_query
+how to reach support faster,general_query
+how to get assistance,general_query
+how to contact service team,general_query
+how to connect with support,general_query
+how to reach help desk,general_query
+how to contact team,general_query
+how to get help from support,general_query
+how to access support,general_query
+how to get support help,general_query
+how to contact support quickly,general_query
+how to reach customer service,general_query
+how to get support response,general_query
+how to get support assistance,general_query
+how to talk to support,general_query
+how to reach help support,general_query
+how to contact help desk,general_query
+how to get help support,general_query
+what support options available,general_query
+what help options available,general_query
+what support channels available,general_query
+what ways to contact support,general_query
+what options to reach support,general_query
+what support methods available,general_query
+what ways to get help,general_query
+what support services available,general_query
+what support available,general_query
+what help available,general_query
+what contact options available,general_query
+what ways to reach help,general_query
+what support channels exist,general_query
+what help channels exist,general_query
+what options exist for support,general_query
+what support options exist,general_query
+what help options exist,general_query
+what ways exist to contact support,general_query
+what methods exist for support,general_query
+what channels exist for help,general_query
+
+
+refund still not processed after multiple requests,refund_request
+refund not credited even after confirmation,refund_request
+refund taking unusually long,refund_request
+refund not received despite cancellation,refund_request
+refund issue still not fixed,refund_request
+refund request still unresolved,refund_request
+refund delay unacceptable now,refund_request
+refund not reflecting in account,refund_request
+refund still pending for days,refund_request
+refund not completed successfully,refund_request
+refund stuck without update,refund_request
+refund still awaiting processing,refund_request
+refund request ignored again and again,refund_request
+refund not updated in system,refund_request
+refund amount not credited properly,refund_request
+refund still missing after approval,refund_request
+refund request still not handled,refund_request
+refund taking too long again,refund_request
+refund problem not resolved yet,refund_request
+refund not executed properly,refund_request
+refund still under process why,refund_request
+refund not done after cancellation,refund_request
+refund missing after order cancel,refund_request
+refund not showing in transactions,refund_request
+refund not reflected yet,refund_request
+refund not completed after days,refund_request
+refund still not happening,refund_request
+refund pending without reason,refund_request
+refund not issued yet,refund_request
+refund delay issue persists,refund_request
+refund not processed fully,refund_request
+refund still not credited why,refund_request
+refund problem still there,refund_request
+refund not working properly again,refund_request
+refund taking too much time again,refund_request
+refund not received even now,refund_request
+refund not completed again,refund_request
+refund still not confirmed properly,refund_request
+refund issue not addressed yet,refund_request
+refund still open issue,refund_request
+
+order still not dispatched after confirmation,order_status
+order not shipped even after delay,order_status
+order processing taking unusually long,order_status
+order status still not updated properly,order_status
+order still not in transit,order_status
+order shipment delayed again today,order_status
+order tracking still not available,order_status
+order still waiting for shipment update,order_status
+order delivery taking longer than expected again,order_status
+order not arriving on expected date,order_status
+order shipment not started yet why,order_status
+order still stuck in processing stage,order_status
+order status not moving forward,order_status
+order delivery still not scheduled,order_status
+order shipment still pending again,order_status
+order not moving in system,order_status
+order tracking not updated for days,order_status
+order still not delivered after delay,order_status
+order status unclear again,order_status
+order shipment not progressing,order_status
+order still waiting dispatch confirmation,order_status
+order not delivered even after expected date,order_status
+order still pending without update,order_status
+order shipment not happening,order_status
+order delivery still delayed again,order_status
+order tracking issue persists,order_status
+order not moving forward at all,order_status
+order still in pending state,order_status
+order not shipped on time,order_status
+order still waiting for delivery update,order_status
+order shipment not confirmed,order_status
+order delivery still not started,order_status
+order not progressing properly,order_status
+order still awaiting dispatch,order_status
+order not updated again,order_status
+order shipment still not started,order_status
+order delivery not happening again,order_status
+order tracking still broken,order_status
+order still not received after delay,order_status
+order status still confusing,order_status
+
+app keeps freezing during usage,technical_issue
+app not responding when clicked,technical_issue
+app very slow during operation,technical_issue
+app error appearing repeatedly,technical_issue
+app crashing randomly again,technical_issue
+app not stable at all,technical_issue
+app glitch happening frequently,technical_issue
+app performance very poor,technical_issue
+app not functioning smoothly,technical_issue
+app keeps loading without response,technical_issue
+system crashing under load,technical_issue
+system not responding to actions,technical_issue
+system very laggy and slow,technical_issue
+system errors appearing again,technical_issue
+system unstable again today,technical_issue
+system glitch persists,technical_issue
+system not reliable anymore,technical_issue
+system failing frequently,technical_issue
+system performance degrading,technical_issue
+system not usable properly,technical_issue
+payment failing again and again,technical_issue
+payment not completing properly,technical_issue
+payment system still broken,technical_issue
+payment stuck at processing stage,technical_issue
+payment not going through again,technical_issue
+payment issue still unresolved,technical_issue
+payment failing repeatedly again,technical_issue
+payment error persists,technical_issue
+payment system glitch,technical_issue
+payment not working again,technical_issue
+login still not working properly,technical_issue
+login error continues,technical_issue
+login system still broken,technical_issue
+login failing frequently,technical_issue
+login issue not resolved yet,technical_issue
+login not responding again,technical_issue
+login system unstable,technical_issue
+login not functioning correctly,technical_issue
+login error persists again,technical_issue
+login still unreliable,technical_issue
+
+this is extremely frustrating service again,complaint
+this is very poor handling again,complaint
+this is not acceptable at all again,complaint
+this is worst experience again,complaint
+this is very disappointing again today,complaint
+this is terrible service quality again,complaint
+this is very bad support again,complaint
+this is unacceptable behavior again today,complaint
+this is very frustrating support again,complaint
+this is poor service again,complaint
+this is extremely bad experience again,complaint
+this is very annoying service again,complaint
+this is disappointing service again,complaint
+this is not good service again,complaint
+this is frustrating again and again,complaint
+this is worst handling again,complaint
+this is poor quality again,complaint
+this is bad experience again today,complaint
+this is unacceptable service quality,complaint
+this is very bad handling again today,complaint
+this is extremely poor service again,complaint
+this is very frustrating experience again today,complaint
+this is terrible support again today,complaint
+this is worst service again today,complaint
+this is disappointing support again today,complaint
+this is not acceptable again today,complaint
+this is very poor service again today,complaint
+this is annoying service again today,complaint
+this is worst experience again today,complaint
+this is poor support again today,complaint
+this is very bad again today,complaint
+this is frustrating service again today,complaint
+this is unacceptable again today,complaint
+this is very disappointing again and again,complaint
+this is poor experience again today,complaint
+this is bad support again today,complaint
+this is very poor service again and again,complaint
+this is worst support again today,complaint
+this is frustrating handling again today,complaint
+this is terrible again today,complaint
+
+how can i quickly reach your support,general_query
+how to contact support team fast,general_query
+how to get immediate help,general_query
+how to connect with support quickly,general_query
+how to reach support instantly,general_query
+how to get help from your team,general_query
+how to contact your service team,general_query
+how to reach help quickly,general_query
+how to contact support easily,general_query
+how to get quick assistance,general_query
+what is fastest way to contact support,general_query
+what is best way to reach support,general_query
+what is quickest way to get help,general_query
+what is fastest way to get support,general_query
+what is easiest way to contact support,general_query
+what is best way to get help,general_query
+what is quickest support option,general_query
+what is fastest support method,general_query
+what is easiest support option,general_query
+what is best contact option,general_query
+how do i quickly contact support,general_query
+how do i get help fast,general_query
+how do i reach support quickly,general_query
+how do i contact support instantly,general_query
+how do i get quick help,general_query
+how do i reach your team quickly,general_query
+how do i contact your team fast,general_query
+how do i get fast assistance,general_query
+how do i contact help desk quickly,general_query
+how do i reach help instantly,general_query
+what ways to contact support fast,general_query
+what ways to get help quickly,general_query
+what options for quick support,general_query
+what options for fast help,general_query
+what options to reach support quickly,general_query
+what options to contact support instantly,general_query
+what options to get help fast,general_query
+what options for quick assistance,general_query
+what options to reach help quickly,general_query
+what options for immediate support,general_query

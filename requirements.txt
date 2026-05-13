@@ -1,0 +1,48 @@
+# -----------------------------------------------
+# Tajstack AI System — Dependencies
+# -----------------------------------------------
+# Install: pip install -r requirements.txt
+
+# Note: torch is CPU-only — the system does not require a GPU.
+# FAISS CPU build is used for vector search.
+# -----------------------------------------------
+
+
+# --- Web Framework ---
+flask>=3.0.0
+gunicorn>=22.0.0
+werkzeug>=3.0.0
+
+# --- Database ---
+psycopg2-binary>=2.9.9
+
+# --- Vector Search ---
+faiss-cpu>=1.8.0
+
+# --- Embeddings + NLP ---
+sentence-transformers>=2.7.0
+transformers>=4.40.0
+torch>=2.2.0
+
+# --- ML ---
+scikit-learn>=1.4.0
+numpy>=1.26.0
+joblib>=1.4.0
+
+# --- PDF Extraction ---
+pdfplumber>=0.11.0
+PyPDF2>=3.0.1
+
+# --- HTML Parsing (URL knowledge) ---
+beautifulsoup4>=4.12.0
+
+# --- HTTP ---
+requests>=2.31.0
+
+# --- Environment ---
+python-dotenv>=1.0.0
+
+# --- Intent Classifier Training Only ---
+# Only needed if you run intent_train.py to retrain the classifier.
+# Not required at runtime.
+datasets>=2.19.0

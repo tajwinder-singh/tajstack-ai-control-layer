@@ -1,0 +1,45 @@
+Acme Corp — Customer Support Policy
+
+REFUND POLICY
+
+Customers are eligible for a full refund within 30 days of purchase. To initiate a refund, the customer must provide the order number and a brief reason for the request. Refunds are processed within 5 to 7 business days and returned to the original payment method.
+
+Damaged or defective items are eligible for an immediate replacement or full refund regardless of the 30-day window. Customers must provide photographic evidence of the damage when submitting a refund request for damaged goods.
+
+Digital products and downloadable items are non-refundable once accessed. Subscription plans can be cancelled at any time but are non-refundable for the current billing period.
+
+Refund requests submitted after 30 days are reviewed on a case-by-case basis and are not guaranteed. Customers who have made more than three refund requests in a 12-month period may be flagged for manual review.
+
+ORDER STATUS
+
+Orders are typically processed within 1 to 2 business days. Standard shipping takes 5 to 7 business days. Express shipping takes 2 to 3 business days.
+
+Customers can track their order using the tracking number sent to their registered email address after dispatch. If a tracking number has not been received within 3 business days of placing an order, customers should contact support.
+
+Orders that have not arrived within 10 business days of the estimated delivery date are considered delayed. In such cases, a replacement or refund will be issued after an investigation is completed with the shipping carrier.
+
+TECHNICAL SUPPORT
+
+Technical support is available Monday to Friday, 9 AM to 6 PM IST. Support requests submitted outside these hours will be responded to on the next business day.
+
+For software or platform issues, customers should include the following details when contacting support: account email, device type, operating system version, and a description of the issue along with any error messages received.
+
+Critical issues affecting core functionality are escalated to the engineering team within 2 hours of being reported. Non-critical issues are addressed within 24 to 48 business hours.
+
+If an issue cannot be resolved within 7 business days, the customer is entitled to a service credit equivalent to one month of their subscription fee.
+
+COMPLAINTS AND ESCALATIONS
+
+Customers who are dissatisfied with the resolution provided by the support team may escalate their complaint to the customer success manager. Escalated complaints are reviewed within 3 business days.
+
+All complaints are logged and reviewed monthly to identify recurring issues. Customers will receive a written acknowledgment of their complaint within 24 hours.
+
+Acme Corp does not tolerate abusive or threatening communication toward support staff. In such cases, Acme Corp reserves the right to terminate the customer relationship.
+
+GENERAL POLICIES
+
+Acme Corp reserves the right to update these policies at any time. Customers will be notified of significant changes via email at least 14 days before the changes take effect.
+
+All support interactions are logged for quality assurance and training purposes. Customer data is handled in accordance with our Privacy Policy and applicable data protection regulations.
+
+For general inquiries not covered by this document, customers may contact support at support@acmecorp.com or through the in-app chat widget.
